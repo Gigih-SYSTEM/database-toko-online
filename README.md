@@ -7,6 +7,16 @@ Nama       : Gigih Satrio
 NIM        : 2522105032
 Kelas      : 2TI02
 
+Nama       : Fajri
+NIM        :
+Kelas      : 2TI02
+
+Nama       : Muhammad Farid
+Kelas      :
+Kelas      : 2TI02
+
+
+
 ---
 
 ## Deskripsi
