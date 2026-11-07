@@ -1,6 +1,14 @@
 
 # DATABASE TOKO ONLINE
 
+## Identitas Mahasiswa
+
+Nama       : Gigih Satrio
+NIM        : 2522105032
+Kelas      : 2TI02
+
+---
+
 ## Deskripsi
 Database Toko Online dibuat untuk mengelola data produk,
 stok barang, kategori, ukuran, pembayaran, dan transaksi
